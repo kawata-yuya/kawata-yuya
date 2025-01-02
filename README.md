@@ -9,11 +9,11 @@ I'm doing research on mobile robots for medical care.
 
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawata-yuya&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kawata-yuya&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawata-yuya&layout=compact&show_icons=true&theme=onedark&count_private=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kawata-yuya&theme=onedark&count_private=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kawata-yuya&margin-w=5&theme=onedark)](https://github.com/kawata-yuya/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kawata-yuya&margin-w=5&theme=onedark&count_private=true)](https://github.com/kawata-yuya/)
 
 ## How to contact📪
 - Email: kwtyuya@gmail.com
