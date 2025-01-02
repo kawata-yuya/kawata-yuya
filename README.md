@@ -2,7 +2,7 @@
 Hi, I'm Yuya Kawata,  a second year student of Electrical and Electronic Engineering✨⚡.  
 I'm doing research on mobile robots for medical care.
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?i=py,cpp,linux,ubuntu,ros,git,vscode,vim,raspberrypi,arduino,discord,github,latex&theme=light" />
+<img alt="my skills" src="https://skillicons.dev/icons?i=py,cpp,linux,ubuntu,ros,git,vscode,vim,raspberrypi,arduino,discord,github,latex&theme=light&perline=8" />
 
 ## 📈 Status
 ![GitHub followers](https://img.shields.io/github/followers/kawata-yuya)
