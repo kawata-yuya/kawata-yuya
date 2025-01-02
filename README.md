@@ -44,6 +44,13 @@ I'm doing research on mobile robots for medical care.
 - Email: kwtyuya@gmail.com
 - Instagram: [Instagram kawatayuya](https://www.instagram.com/kawatayuya/)
 
+<!--
+プライベートレポジトリの更新がグラフに反映されない場合は
+https://vercel.com/kawata-yuyas-projects/github-readme-stats/settings/environments/production
+の環境変数のapi keyを更新するとうまくいくはずです。
+詳しくはhttps://github.com/anuraghazra/github-readme-statsのREADMEを読んでくれ
+-->
+
 
 <!--
 **kawata-yuya/kawata-yuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
