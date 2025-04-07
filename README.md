@@ -17,24 +17,6 @@ I'm doing research on mobile robots for medical care.
 [![](https://github-readme-activity-graph.vercel.app/graph?username=kawata-yuya&theme=github-compact&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true&count_private=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
-### Languages
-
-[![](http://github-readme-stats-nine-eta-45.vercel.app/api/cards/repos-per-language?username=kawata-yuya&theme=onedark&count_private=true)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-readme-stats-nine-eta-45.vercel.app/api/cards/most-commit-language?username=kawata-yuya&theme=onedark&count_private=true)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawata-yuya&layout=compact&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### OSS Insight
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=68951627" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68951627&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @kawata-yuya" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68951627&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ### Achievement
 
@@ -71,12 +53,6 @@ sub   ed25519 2025-04-06 [S] [expires: 2026-04-06]
 sub   cv25519 2025-04-06 [E] [expires: 2026-04-06]
 ...
 ```
-
-### ✅ Verified Uses
-
-- 🔏 Email encryption
-- ✅ Git commit & tag signing
-- 📦 Optional: Secure file signatures
 
 <!--
 プライベートレポジトリの更新がグラフに反映されない場合は
