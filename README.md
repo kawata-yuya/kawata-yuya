@@ -44,6 +44,40 @@ I'm doing research on mobile robots for medical care.
 - Email: kwtyuya@gmail.com
 - Instagram: [Instagram kawatayuya](https://www.instagram.com/kawatayuya/)
 
+
+## 🔐 PGP Public Key
+### 📥 Download
+
+**PGP Key (.asc):**   
+[🔗 Download kawata-yuya_0x97752CA6_public.asc](https://gist.githubusercontent.com/kawata-yuya/0bddd3cfdedc93749cc7988148db8e3c/raw/dad86111f208dde12e757963144116bdf3b5dcc5/kawata-yuya_0x97752CA6_public.asc)
+
+**Fingerprint:**  
+`B160 8120 F763 9130 E8AC  AACA 1FDE F4D9 9775 2CA6`
+
+### 📡 Import From Keyserver
+
+```
+$ gpg --recv-keys B1608120F7639130E8ACAACA1FDEF4D997752CA6
+```
+
+### 📄 Key Metadata (ed25519)
+
+```
+$ gpg -k B1608120F7639130E8ACAACA1FDEF4D997752CA6
+pub   ed25519 2025-04-06 [SC] [expires: 2028-04-05]
+      B1608120F7639130E8ACAACA1FDEF4D997752CA6
+uid           [ unknown] kawatayuya (Kawata yuya's primary email for contact.) <kwtyuya@gmail.com>
+sub   ed25519 2025-04-06 [S] [expires: 2026-04-06]
+sub   cv25519 2025-04-06 [E] [expires: 2026-04-06]
+...
+```
+
+### ✅ Verified Uses
+
+- 🔏 Email encryption
+- ✅ Git commit & tag signing
+- 📦 Optional: Secure file signatures
+
 <!--
 プライベートレポジトリの更新がグラフに反映されない場合は
 https://vercel.com/kawata-yuyas-projects/github-readme-stats/settings/environments/production
