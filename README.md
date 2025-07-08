@@ -13,9 +13,11 @@ I'm doing research on mobile robots for medical care.
 </p>
 
 [![](http://github-readme-stats-nine-eta-45.vercel.app/api/cards/profile-details?username=kawata-yuya&theme=onedark&count_private=true)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-readme-stats-nine-eta-45.vercel.app/api/cards/productive-time?username=kawata-yuya&theme=onedark&utcOffset=9&count_private=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=kawata-yuya&theme=github-compact&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true&count_private=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
+[![](http://github-readme-stats-nine-eta-45.vercel.app/api/cards/productive-time?username=kawata-yuya&theme=onedark&utcOffset=9&count_private=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
+<!-- [![](https://github-readme-activity-graph.vercel.app/graph?username=kawata-yuya&theme=github-compact&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true&count_private=true)](https://github.com/Ashutosh00710/github-readme-activity-graph) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawata-yuya&theme=onedark)   
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawata-yuya&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawata-yuya&theme=onedark&utcOffset=9)
 
 
 ### Achievement
