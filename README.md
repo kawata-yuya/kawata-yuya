@@ -19,7 +19,7 @@ I'm doing research on mobile robots for medical care.
 
 ### Achievement
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kawata-yuya&no-frame=true&no-bg=true&theme=onedark&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fawn-three.vercel.app/?username=kawata-yuya&no-frame=true&no-bg=true&theme=onedark&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## How to contact📪
 - Email: kwtyuya@gmail.com
