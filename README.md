@@ -9,7 +9,7 @@ I'm doing research on mobile robots for medical care.
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats-nine-eta-45.vercel.app/api?username=kawata-yuya&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=onedark" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=kawata-yuya&theme=onedark&hide_border=true&count_private=true" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats-eight-wheat.vercel.app?user=kawata-yuya&theme=onedark&hide_border=true&count_private=true&date_format=%5BY%2F%5Dn%2Fj" /></a>
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawata-yuya&theme=onedark)   
