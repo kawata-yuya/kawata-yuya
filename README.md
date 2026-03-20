@@ -1,6 +1,11 @@
 ## About Kawata Yuya👋
 Hi, I'm Yuya Kawata,  a second year student of Electrical and Electronic Engineering✨⚡.  
 I'm doing research on mobile robots for medical care.
+
+👽 kawata-yuya (川田侑弥)  
+🖥️ National Institute of Technology, Tomakomai College (苫小牧高専)  
+⚡Electrical and Electronic Engineering  
+
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?i=py,cpp,linux,ubuntu,ros,git,vscode,vim,raspberrypi,arduino,discord,github,gitlab,latex,docker&theme=light&perline=8" />
 
