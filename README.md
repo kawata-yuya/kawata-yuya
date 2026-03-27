@@ -35,7 +35,7 @@ I'm doing research on mobile robots for medical care.
 ### 📥 Download
 
 **PGP Key (.asc):**   
-[🔗 Download kawata-yuya_0x97752CA6_public.asc](https://gist.githubusercontent.com/kawata-yuya/0bddd3cfdedc93749cc7988148db8e3c/raw/dad86111f208dde12e757963144116bdf3b5dcc5/kawata-yuya_0x97752CA6_public.asc)
+[🔗 Download kawata-yuya_0x97752CA6_public.asc](https://gist.githubusercontent.com/kawata-yuya/0bddd3cfdedc93749cc7988148db8e3c/raw/23105b51850ef5ace723d538bd7e34d232ad8860/kawata-yuya_0x97752CA6_public.asc)
 
 **Fingerprint:**  
 `B160 8120 F763 9130 E8AC  AACA 1FDE F4D9 9775 2CA6`
@@ -55,6 +55,8 @@ pub   ed25519 2025-04-06 [SC] [expires: 2028-04-05]
 uid           [ unknown] kawatayuya (Kawata yuya's primary email for contact.) <kwtyuya@gmail.com>
 sub   ed25519 2025-04-06 [S] [expires: 2026-04-06]
 sub   cv25519 2025-04-06 [E] [expires: 2026-04-06]
+sub   ed25519 2026-03-27 [S] [expires: 2027-04-06]
+sub   cv25519 2026-03-27 [E] [expires: 2027-04-06]
 ...
 ```
 
