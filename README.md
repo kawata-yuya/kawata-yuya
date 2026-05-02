@@ -1,5 +1,5 @@
 ## About Kawata Yuya👋
-Hi, I'm Yuya Kawata,  a second year student of Electrical and Electronic Engineering✨⚡.  
+Hi, I'm Yuya KAWATA(川田侑弥), a final-year student of Electrical and Electronic Engineering✨⚡.  
 I'm doing research on mobile robots for medical care.
 
 👽 kawata-yuya (川田侑弥)  
